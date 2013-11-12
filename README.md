@@ -1,0 +1,2 @@
+# nowires
+### a Sails application
